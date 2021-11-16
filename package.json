@@ -1,0 +1,11 @@
+{
+  "name": "emailsender",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "dev": "nodemon app"
+  },
+  "author": "adedxtun",
+  "license": "ISC"
+}
