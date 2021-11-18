@@ -1,11 +1,23 @@
 {
   "name": "emailsender",
   "version": "1.0.0",
-  "description": "",
   "main": "app.js",
   "scripts": {
     "dev": "nodemon app"
   },
   "author": "adedxtun",
-  "license": "ISC"
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dee-d-dev/EmailSender.git"
+  },
+  "bugs": {
+    "url": "https://github.com/dee-d-dev/EmailSender/issues"
+  },
+  "homepage": "https://github.com/dee-d-dev/EmailSender#readme",
+  "description": "",
+  "dependencies": {
+    "googleapis": "^91.0.0",
+    "nodemailer": "^6.7.1"
+  }
 }
